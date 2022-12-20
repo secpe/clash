@@ -18,7 +18,7 @@ require (
 	go.etcd.io/bbolt v1.3.6
 	go.uber.org/atomic v1.10.0
 	go.uber.org/automaxprocs v1.5.1
-	golang.org/x/crypto v0.3.1-0.20221117191849-2c476679df9a
+	golang.org/x/crypto v0.4.0
 	golang.org/x/net v0.2.1-0.20221117215542-ecf7fda6a59e
 	golang.org/x/sync v0.1.0
 	golang.org/x/sys v0.2.1-0.20221110211117-d684c6f88669
